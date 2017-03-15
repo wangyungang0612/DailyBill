@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DailyBill</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="family_bill_name">家庭帐务记录</string>
+    <string name="export_bill">导出账单</string>
+    <string name="import_bill">导入账单</string>
+
+</resources>
